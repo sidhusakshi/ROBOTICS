@@ -1,0 +1,9 @@
+Step 1: Intsall the Raspberry Pi Imager 
+Step 2: Set Host Name , enable SSH, Set Username and Password. 
+Step 3: Set SSID and Password of hotspot which is used .
+Step 4: Connect Raspberry Pi WIFI and Laptop WIFI to Mobile Device.
+Step 5: Open CMD and tyepe following command 
+pingraspberrypi or ping 162.168.207.244 
+ssh admin@ raspberrypi or ssh admin@ 
+162.168.207.244 And type password of Admin 
+Step:6 Download the FileZilla (Client)
