@@ -1,0 +1,15 @@
+Give project name. 
+Select “create a schematic from the selected template”.
+Select “Do not create a PCB layout” 
+Select “Create firmware project”. and create firmware project in proteus and select Raspberry pi Family.
+Click on Finish.
+Go to the liabrary>pick devices>L293D
+Select MOTOR
+Edit terminal label as GPIO4 
+Edit terminal label as GPIO17
+Select BUTTON
+Rotate button in clockwise
+Edit terminal label as GPIO18 
+Type code in proteus source code page
+
+Start Simulation. 
